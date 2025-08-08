@@ -1,0 +1,12 @@
+# Arquivos de ambiente
+.env
+
+# Chaves do Google
+GOOGLE JSON KEY/
+
+# Compilados Python
+__pycache__/
+*.pyc
+
+# Outros arquivos temporários
+*.log
